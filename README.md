@@ -1,3 +1,3 @@
-# Calculadora
+# Calculadora IFNMG
 
-Projeto passado em sala de aula com inteção de mostrar a orientação a objetos.
+![Texto Alternativo](img/calculadora.png)
